@@ -1,26 +1,27 @@
 [
+  
   {
-    "title": "Project A",
+    "title": "Live Weather Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "description": "Created a weather forecast website using React JS",
+    "skills": ["React", "Express","HTMl","Tailwind CSS","Javascript"],
+    "demo": "https://weather-app1-wlbr.onrender.com/",
+    "source": "https://github.com/singhaman7462/Weather_app.git",
+    "comment":{
+      "title": "SAP UI5 Dashboard for Product Distribution Centres",
+      "imageSrc": "projects/project.png",
+      "description": "A website that shows the statuses of 100+ PDC execution processes on a daily basis.",
+      "skills": ["SAP UI5", "CSS", "Javascript","HTML"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
   },
   {
-    "title": "Project B",
+    "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "Created Portfolio website using React",
+    "skills": ["React", "Express","HTMl","CSS","Javascript"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
-  },
-  {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/singhaman7462/Portfolio-Website.git"
   }
 ]
