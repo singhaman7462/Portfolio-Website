@@ -19,7 +19,7 @@
   {
     "title": "Portfolio Website",
     "imageSrc": "projects/project.png",
-    "description": "Created Portfolio website using React",
+    "description": "Created a single page Portfolio website using React JS",
     "skills": ["React", "Express","HTMl","CSS","Javascript"],
     "demo": "https://www.example.com",
     "source": "https://github.com/singhaman7462/Portfolio-Website.git"
