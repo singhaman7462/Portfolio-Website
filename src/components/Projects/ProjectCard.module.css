@@ -3,11 +3,15 @@
 .container{
     display: flex;
     flex-direction: column;
+    justify-content: space-between;
     border-radius: 10px;
     background: linear-gradient(180deg,#576cbc 0%,#132a53);
     box-shadow: 0 16px 14px 0 #04152d; 
     padding: 18px 24px;
     max-width: 345px;
+    min-height: 637.32px;
+    height: 100%;
+    box-sizing: border-box;
 }
 
 .image{
