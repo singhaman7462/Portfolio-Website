@@ -19,7 +19,7 @@ function About() {
               <h3>Frontend Developer</h3>
               <p>
                 I am a frontend developer with experience in developing
-                optimized sites.
+                optimized sites using React,HTML,CSS,Javascript,SAP UI5.
               </p>
             </div>
           </li>
@@ -29,8 +29,7 @@ function About() {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I am a backend developer with experience in developing
-                optimized sites.
+                I am a backend developer with experience in MongoDB,SQL and API integration.
               </p>
             </div>
           </li>
@@ -38,10 +37,9 @@ function About() {
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/uiIcon.png")} alt="Designer"></img>
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>DSA Enthusiast</h3>
               <p>
-                I am a UI Designer with experience in developing
-                optimized sites.
+                I am a Data Structures and Algorithms enthusiast with more than 1000 questions.
               </p>
             </div>
           </li>
