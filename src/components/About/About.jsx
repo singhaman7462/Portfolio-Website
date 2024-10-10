@@ -18,8 +18,7 @@ function About() {
             <div className={styles.aboutItemText}>
               <h3>Frontend Developer</h3>
               <p>
-                I am a frontend developer with experience in developing
-                optimized sites using React,HTML,CSS,Javascript,SAP UI5.
+                I am a frontend developer with experience in React ,HTML ,CSS ,Javascript and SAP UI5.
               </p>
             </div>
           </li>
@@ -29,7 +28,7 @@ function About() {
             <div className={styles.aboutItemText}>
               <h3>Backend Developer</h3>
               <p>
-                I am a backend developer with experience in MongoDB,SQL and API integration.
+                I am a backend developer with experience in Node.js and Express.js.
               </p>
             </div>
           </li>
@@ -39,7 +38,7 @@ function About() {
             <div className={styles.aboutItemText}>
               <h3>DSA Enthusiast</h3>
               <p>
-                I am a Data Structures and Algorithms enthusiast with more than 1000 questions.
+                I am a Data Structures and Algorithms enthusiast with more than 1000 problems solved.
               </p>
             </div>
           </li>

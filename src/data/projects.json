@@ -2,7 +2,7 @@
   
   {
     "title": "Live Weather Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project1.png",
     "description": "Created a weather forecast website using React JS",
     "skills": ["React", "Express","HTML","Tailwind CSS","Javascript"],
     "demo": "https://weather-app1-wlbr.onrender.com/",
@@ -18,10 +18,10 @@
   },
   {
     "title": "Portfolio Website",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/project2.png",
     "description": "Created a single page Portfolio website using React JS",
     "skills": ["React", "Express","HTML","CSS","Javascript"],
-    "demo": "https://www.example.com",
+    "demo": "/",
     "source": "https://github.com/singhaman7462/Portfolio-Website.git"
   }
 ]
